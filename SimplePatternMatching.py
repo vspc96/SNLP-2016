@@ -1,28 +1,39 @@
 import os
 import xml.etree.ElementTree as ET
-from nltk import ngrams,word_tokenize,pos_tag
-
+from nltk import ngrams,word_tokenize,pos_tag,sent_tokenize
+from collections import Counter
 def getPatterns(text,metrics):
 	before=set()
 	after=set()
+	patterns = []
 	try :
-		words=text.split(' ')
-		n = len(words)
-		for i in xrange(n):
-			if words[i] == metrics :
-				if i>=1:
-					before.add(words[i-1])
-					print words[i-1]
-				if i>=2:
-					before.add(words[i-2])
-				if i<n-1:
-					after.add(words[i+1])
-					print words[i+1]
-				if i<n-2:
-					after.add(words[i+2])
+		sentences = sent_tokenize(text)
+		for sent in sentences :
+			words = sent.split(' ')
+			n = len(words)
+			for i in xrange(n):
+				s = ""
+				if words[i] == metrics :
+					if i>=2:
+						before.add(words[i-2])
+						s += (words[i-2] + ' ') 
+					if i>=1:
+						before.add(words[i-1])
+						s += (words[i-1] + ' ')
+						s += (metrics + ' ')
+					if i<n-1:
+						after.add(words[i+1])
+						if i < 1 :
+							s += (metrics + ' ')
+						s += (words[i+1] + ' ')
+							
+					if i<n-2:
+						after.add(words[i+2])
+						s += (words[i+2] + ' ')
+					patterns.append(s)
 	except :
-		pass	
-	return before,after
+		pass
+	return before,after,patterns
 
 def getNGrams(text,n):
 	ret = ngrams(text.split(),n)
@@ -43,7 +54,7 @@ def getMaxWordLength(patterns):
 	return max_length
 
 def bootstrap(metrics):
-	pdf_folder='./'
+	pdf_folder='./Test_Data/'
 	ocr_folder='/var/www/html/OCR++/myproject/media/documents/'
 	pdf_files=os.listdir(pdf_folder)
 	xml_folder=pdf_folder+ "xmlfiles/"
@@ -63,27 +74,45 @@ def bootstrap(metrics):
 	xml_files=os.listdir(xml_folder)
 	all_before=set(' ')
 	all_after=set(' ')
+	all_patterns = []
 	for xml in xml_files:
 		try:
 			tree=ET.parse(xml_folder+xml)
 			root=tree.getroot()
 			for section in root.findall('section'):
 				for chunk in section.findall('chunk'):
-					before,after=getPatterns(chunk.text,metrics)
+					before,after,patterns=getPatterns(chunk.text,metrics)
 					all_before = all_before.union(before)
 					all_after = all_after.union(after)
+					all_patterns += patterns
 		except :
 			pass
+	count = Counter(all_patterns)
+	# print count.most_common(20)
 	max_length_before=getMaxWordLength(all_before)
 	max_length_after=getMaxWordLength(all_after)
 	metric_length_limit=getMaxWordLength(metrics)+1
 	n=max_length_before+max_length_after+metric_length_limit
 	new_metrics= []
-	all_before = list(all_before)
-	all_after = list(all_after)
+	# all_before = list(all_before)
+	# all_after = list(all_after)
+	all_after = set()
+	all_before = set()
+	for i in count.most_common(5):
+		k = i[0]
+		k = k.split(' ')
+		for ek in xrange(len(k)):
+			if k[ek] == metrics :
+				
+				for bef in k[:ek] :
+					all_before.add(bef)
+				for aft in k[ek+1:] :
+					all_after.add(aft)
+
 	count = 0
+	print all_before
+	print all_after
 	for xml in xml_files:
-		print count
 		count += 1
 		try:
 			tree=ET.parse(xml_folder+xml)
@@ -115,5 +144,5 @@ def bootstrap(metrics):
 		if count > 5 :
 			break
 	s = set([tuple(x) for x in new_metrics])
-	# print s
-bootstrap("English")
+	print (s)
+bootstrap("ROUGE")
