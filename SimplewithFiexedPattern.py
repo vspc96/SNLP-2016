@@ -61,24 +61,43 @@ def getNGrams(text,n):
 	ret = ngrams(text.split(),n)
 	return ret
 
+def isNoun(words,text):
+	i = 0
+	tags = pos_tag(text)
+	for tag in tags :
+		if tag[0] == words[i] :
+			i += 1
+			if tag[1] != 'NN' and tag[1] != 'NNP':
+				return False
+			if i >= len(words): break
+	return True
+
 # def isNoun(words,text):
-# 	tags = pos_tag(text)
-# 	print tags
-# 	for tag in tags :
-# 		if tag[0] == words[i] :
-# 			i += 1
+# 	try:
+# 		wordlist=words
+# 		text=''
+# 		for word in wordlist:
+# 			if len(word)==0:
+# 				continue
+# 			text+=word[0].upper()+word[1:]+' '
+# 		text=text.strip()
+# 		tags = pos_tag(text)
+# 		words=words
+# 		# print tags
+# 		for tag in tags :
+# 			for word in words:
+# 				if len(tag[0])==0:
+# 					continue
+# 				if tag[0].lower()==word and tag[1] != 'NNP':
+# 					return False
+# 		return True
+# 	except Exception ,e:
+# 		print e
+# 		tags = pos_tag(words)
+# 		for tag in tags :
 # 			if tag[1] != 'NN' and tag[1] != 'NNP':
 # 				return False
-# 			if i >= len(words): break
-# 	return True
-
-def isNoun(words,text):
-	tags = pos_tag(words)
-	print tags
-	for tag in tags :
-		if tag[1] != 'NN' and tag[1] != 'NNP' and tag[1] != 'NNS':
-			return False
-	return True
+# 		return True
 
 def getMaxWordLength(patterns):
 	max_length=0
