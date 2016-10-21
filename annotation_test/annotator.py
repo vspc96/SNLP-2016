@@ -1,9 +1,10 @@
 import numpy as np
-import os, sys, StringIO
+import os, sys, StringIO, re
 import xml.etree.ElementTree as ET
 from nltk import ngrams,word_tokenize,pos_tag,sent_tokenize
 from nltk.parse import stanford
 from collections import Counter
+import pickle
 
 dir_path = os.path.dirname(os.path.realpath(__file__))
 metric_list = ['BLEU', 'Rouge', 'DICE', 'Jaccard']
@@ -119,8 +120,18 @@ for metric in metric_list:
                 file_path = os.path.join(subdir, file)
                 print '\n\nNew File: ' + file_path +'\n\n'
                 perfile_counter = pattern_annotate(metric)
-                perfile_patterns = perfile_counter.items()
+                perfile_patterns = perfile_counter.most_common()
                 metric_pattern_counter = metric_pattern_counter + perfile_counter
+
+                delete_indices = []
+                for i in xrange(0, len(perfile_patterns)):
+                    if len(re.findall ('[^\w\d\s]+', perfile_patterns[i][0])) == 0 and perfile_patterns[i][0].find('_') == -1:
+                        continue
+                    else:
+                        delete_indices.append(i)
+                # print delete_indices
+                for i in xrange(len(delete_indices)-1, -1, -1):
+                    perfile_patterns.pop(delete_indices[i])
 
                 temp_file_name = file_path[:-4]
                 temp_file_name = temp_file_name + '_' + metric + '.txt'
@@ -129,12 +140,35 @@ for metric in metric_list:
                     print >>f1, perfile_patterns[i]
                     print '\n'
                 f1.close()
+                
+                temp_file_name = temp_file_name[:-4]
+                temp_file_name = temp_file_name + '.pkl'
+                f1 = open(temp_file_name,'wb')
+                pickle.dump(perfile_patterns, f1, -1)
+                f1.close()
+
     metric_file = dir_path + '/' + metric + '_train.txt'
     f2 = open(metric_file,'w')
-    metric_patterns = metric_pattern_counter.items()
+    metric_patterns = metric_pattern_counter.most_common()
+
+    delete_indices_new = []
     for i in xrange(0, len(metric_patterns)):
-        print >>f2, metric_patterns[i] 
-        print '\n'
+        if len(re.findall ('[^\w\d\s]+', metric_patterns[i][0])) == 0 and metric_patterns[i][0].find('_') == -1:
+            continue
+        else:
+            delete_indices_new.append(i)
+    for i in xrange(len(delete_indices_new)-1, -1, -1):
+        metric_patterns.pop(delete_indices_new[i])
+    
+    for i in xrange(0, len(metric_patterns)):
+            print >>f2, metric_patterns[i] 
+            print '\n'
+    f2.close()
+    
+    metric_file = metric_file[:-4]
+    metric_file = metric_file + '.pkl'
+    f2 = open(metric_file, 'wb')
+    pickle.dump(metric_patterns, f2, -1)
     f2.close()
 
 print "\nWe're done"

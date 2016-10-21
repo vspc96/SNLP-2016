@@ -1,6 +1,1 @@
-('details about bleu . ', 1)
-('used in bleu ; ( ', 1)
 ('bleu measures how ', 1)
-('good as bleu . ', 1)
-('2001. bleu : a ', 1)
-('measure , bleu , used ', 1)

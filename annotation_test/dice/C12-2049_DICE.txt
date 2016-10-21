@@ -1,5 +1,2 @@
-('as : dice ( w ', 1)
 ('simpsonjaccard dice ngd pmi ', 3)
 ('simpson jaccard dice ngd pmi ', 1)
-('dice coefficient ( ', 1)
-('1. simpsonjaccard dice ngd pmi ', 1)

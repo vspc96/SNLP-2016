@@ -1,8 +1,1 @@
-('such as bleu ( papineni ', 1)
-('details about bleu . ', 1)
-('skip-bigram vs. bleu is that ', 1)
 ('bleu measures how ', 1)
-('good as bleu . ', 1)
-('2001. bleu : a ', 1)
-('similar to bleu , i.e ', 1)
-('measure , bleu , used ', 1)

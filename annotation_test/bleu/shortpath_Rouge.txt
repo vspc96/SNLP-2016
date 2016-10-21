@@ -1,8 +1,4 @@
 ('rouge more or ', 1)
 ('evaluation method rouge was used ', 1)
-('n-gram based rouge metrics , ', 1)
-('1. three rouge metrics are ', 1)
-(', and rouge scores have ', 1)
 ('evaluation using rouge scores on ', 1)
-('texts , rouge scores are ', 1)
 ('of which rouge metric is ', 1)

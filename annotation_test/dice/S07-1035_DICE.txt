@@ -1,7 +1,1 @@
-('0.306 0.299 dice ( google ', 1)
-(': the dice coefficient , ', 1)
-(') a dice cc ec ', 1)
-(') 2. dice coefficient : ', 1)
 ('vacillate c dice cc vacillate ', 1)
-('0.320 0.293 dice ( baidu ', 1)
-(') ) dice cc shake ', 1)

@@ -1,3 +1,0 @@
-('1 : rouge average recall ', 1)
-('use the rouge 3 ( ', 1)
-('2004. rouge : a ', 1)

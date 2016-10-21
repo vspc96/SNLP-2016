@@ -1,8 +1,4 @@
-('skip bigram dice , and ', 1)
 ('omitting the dice computation yielded ', 1)
-('for character dice , skip ', 1)
 ('using the dice coefficient over ', 1)
 ('consumed by dice score computation ', 1)
 ('skip bigram dice score can ', 1)
-('skip bigram dice score > ', 1)
-(': character dice score > ', 1)
