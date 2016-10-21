@@ -1,0 +1,4 @@
+('higher normalized rouge scores , ', 2)
+('on the rouge metrics and ', 1)
+('higher normalized rouge scores ) ', 1)
+('report on rouge scores that ', 1)

@@ -1,0 +1,3 @@
+('ipants simpson jaccard dice ngd ', 1)
+('as : jaccard ( w ', 1)
+('jaccard coefficient ( ', 1)

@@ -1,0 +1,6 @@
+('p. jaccard . ', 1)
+('y ) jaccard ( jaccard ', 1)
+('dice ( jaccard ) 0.20 ', 1)
+('dice ( jaccard ) 0.05 ', 1)
+('jaccard ( jaccard , 1912 ', 1)
+('similarly jaccard and dice ', 1)
