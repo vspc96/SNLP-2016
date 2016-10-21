@@ -1,0 +1,2 @@
+('lee r. dice . ', 1)
+('becomes the dice coefficient . ', 1)
