@@ -1,0 +1,4 @@
+('pass jacc dice pass jacc ', 1)
+('pass jacc dice no chain ', 1)
+('difference between dice and jaccard ', 1)
+('higher than dice in 10 ', 1)

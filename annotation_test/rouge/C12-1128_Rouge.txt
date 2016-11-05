@@ -1,0 +1,6 @@
+('rouge determines the ', 1)
+('at the rouge scores on ', 1)
+('drop in rouge compared to ', 1)
+('the rouge evaluation results ', 1)
+('shows the rouge measures of ', 1)
+('the rouge scores indicate ', 1)

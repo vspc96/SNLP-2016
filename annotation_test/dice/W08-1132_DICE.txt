@@ -1,0 +1,3 @@
+('set dice masi accuracy ', 1)
+('on the dice metric the ', 1)
+('push the dice score even ', 1)

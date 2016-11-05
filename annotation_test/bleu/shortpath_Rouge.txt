@@ -1,0 +1,4 @@
+('rouge more or ', 1)
+('evaluation method rouge was used ', 1)
+('evaluation using rouge scores on ', 1)
+('of which rouge metric is ', 1)

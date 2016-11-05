@@ -1,0 +1,8 @@
+('significance in rouge scores is ', 1)
+('rouge results comparing ', 1)
+('to maximize rouge which does ', 1)
+('we compute rouge scores with ', 1)
+('reference for rouge and manual ', 1)
+('in automatic rouge evaluation and ', 1)
+('since the rouge evaluation metric ', 1)
+('provement in rouge over topicsum ', 1)

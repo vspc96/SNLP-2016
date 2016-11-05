@@ -1,0 +1,8 @@
+('in the rouge evaluation package ', 2)
+('describe a rouge measure based ', 1)
+('in all rouge score computations ', 1)
+('rouge is available ', 1)
+('to compute rouge scores using ', 1)
+('rouge stands for ', 1)
+('total score rouge 1 may ', 1)
+('shows how rouge n is ', 1)
