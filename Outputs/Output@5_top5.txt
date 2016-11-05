@@ -1,0 +1,7 @@
+bleu 			4
+the teachers 			4
+bleus 			4
+right 			2
+similarity 			2
+Total = 16
+Precision : 8/16 = .5

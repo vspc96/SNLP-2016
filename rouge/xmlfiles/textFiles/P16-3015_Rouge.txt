@@ -1,0 +1,4 @@
+('a similar rouge score indeed ', 1)
+('on both rouge score and ', 1)
+('when using rouge as a ', 1)
+('increase in rouge scores were ', 1)

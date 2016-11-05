@@ -1,0 +1,726 @@
+Done with Training
+Starting to get patterns
+
+concept 				3
+similarity 				4
+alg 				3
+splitting 				3
+sentiment analysis 				25
+prefix 				5
+code 				5
+ter tool 				3
+query 				12
+identification level 				3
+probability estimation 				3
+type fb 				4
+polarity 				4
+penn treebank 				8
+unbalance problem 				4
+graph 				12
+tweet 				9
+seed pair 				3
+environment 				9
+tl 				7
+program 				4
+cccs task 				3
+bowls water 				10
+ta 				5
+guanxi network 				5
+customer 				4
+predicate 				9
+string 				7
+stanford parser 				13
+activation 				3
+reader 				3
+annotation task 				3
+verb 				26
+parse tree 				7
+room 				6
+wsd 				6
+evaluation 				50
+translation model 				13
+list 				19
+protest 				4
+offline model 				10
+svm classifier 				5
+speculation 				3
+equation 				3
+target relation 				4
+croatian 				10
+application 				10
+nlg 				3
+crow 				7
+rouge 				8
+prediction 				8
+sentiment lexicon 				3
+sign 				3
+past 				17
+translation task 				5
+street 				9
+video 				7
+word alignment 				11
+index 				4
+turn 				14
+font 				3
+language processing 				5
+learner 				5
+relationship extraction 				3
+debate 				5
+verb class 				3
+experiment 				25
+source language 				28
+ner 				4
+method 				8
+exercise 				4
+segmentation 				3
+bi 				3
+path 				3
+metoffice 				3
+pdtb 				9
+ukraine 				3
+bt 				3
+search 				6
+berkeley framenet project 				8
+forum 				3
+study 				24
+dialogue state tracking 				5
+adapt centre 				5
+queue 				3
+tree structure 				4
+mt evaluation 				7
+action 				3
+machine transliteration 				8
+model output 				5
+writer 				3
+projection 				4
+classification 				21
+rightmost vertice 				3
+cslm 				3
+texts 				10
+candidate set 				5
+translation output 				4
+srilm 				3
+em algorithm 				5
+morfessor baseline 				3
+crisis 				4
+cloud 				3
+sentence pair 				4
+use 				3
+graphs 				6
+test set 				103
+beam width 				3
+tang dynasty 				4
+translation quality estimation 				7
+tm 				20
+memory 				3
+length 				5
+type 				5
+input sentence 				9
+target entity 				8
+sentence level 				13
+sortie 				5
+pipeline 				9
+phone 				5
+crfs 				5
+appendix 				5
+englishfrench 				3
+target space 				4
+fly 				7
+sample 				3
+word 				77
+feature vector 				5
+mc 				3
+middle 				4
+recall 				10
+setup 				3
+verb phrase 				6
+dev 				3
+machine learning 				15
+dsl corpus collection 				11
+mt 				15
+semeval dataset 				3
+research community 				5
+root 				5
+example 				60
+speech recognition 				9
+translation memory 				6
+figure 				6
+mapping table 				3
+research question 				3
+agent 				18
+topic 				28
+research topic 				3
+minimum 				3
+character level 				4
+phrase 				25
+sentence classification 				5
+acl 				18
+source sentence 				11
+user simulator 				3
+information 				9
+end 				10
+goal 				4
+recalibration process 				4
+discussion 				10
+feature 				6
+dialog state tracking 				3
+target word 				11
+text classification 				3
+comparsion 				3
+language identifier 				4
+map 				7
+input gate 				3
+torgo corpus 				3
+spot 				3
+collection 				4
+baseline translation 				3
+ftds 				4
+noise 				3
+president 				4
+annotation 				8
+summarization 				4
+quality estimation 				7
+tourism domain 				3
+noun 				8
+lemmas 				3
+robot 				17
+folktale 				6
+language line 				3
+source text 				18
+caminfo set 				4
+sl 				7
+challenge 				10
+sb 				4
+program committee 				4
+cosine similarity 				6
+lsi approach 				3
+nltk 				3
+deck 				13
+taxonomy 				5
+entity 				7
+paper 				28
+tagger 				4
+test dataset 				8
+optimizer instability 				3
+ieee 				3
+group 				7
+lm 				11
+window 				9
+sgd 				3
+policy 				10
+speaker 				17
+brevity penalty 				4
+classification task 				9
+combination 				3
+model performance 				3
+product tm 				5
+scene 				8
+answer 				9
+outbreak 				3
+computation time 				4
+day 				7
+bank 				3
+clqa 				3
+wordnet affect 				3
+grammar 				15
+orange 				3
+word level 				9
+dependency bank 				3
+token 				8
+arrow 				3
+gender 				3
+target sentence 				7
+scfg 				3
+opinion mining 				4
+classifier 				30
+mean 				4
+em 				5
+quality estimation task 				3
+domain 				17
+ontolex 				5
+simplicity 				5
+generation 				8
+house 				4
+pictographs 				4
+cngl programme 				4
+solution 				4
+generation process 				3
+mds 				3
+levenshtein distance 				3
+event 				21
+analysis 				9
+category 				6
+network 				7
+sentiment 				3
+dst 				5
+smt 				20
+tm tool 				3
+research 				3
+content 				4
+messenger 				3
+internet 				27
+lecture 				3
+ajd 				5
+asr 				8
+system combination 				5
+dialogue management 				5
+timeline 				4
+reason 				4
+qtleap project 				6
+relation extraction 				7
+process 				19
+sys 				4
+training 				54
+interaction 				14
+derivation 				4
+sentence structure 				3
+pivot language 				4
+americas 				25
+conversation 				11
+mss task 				5
+source side 				7
+support 				4
+cheese 				4
+dialog state 				3
+listnet 				17
+clause 				8
+listnet algorithm 				5
+parser 				11
+number 				6
+englishczech task 				5
+seimas 				6
+quality 				13
+twitter sentiment classification 				5
+size 				3
+story 				17
+content verb 				5
+geotagger 				4
+top 				9
+system 				145
+iac 				3
+response 				7
+corpus 				129
+ukb 				3
+language modeling 				13
+schema 				5
+tuple 				3
+tool 				10
+sbml model 				5
+output result 				3
+translation 				67
+ncc 				3
+dsl task 				3
+distance 				5
+test corpora 				6
+target 				13
+document level 				3
+database 				7
+swecc 				4
+project 				17
+viterbi algorithm 				3
+future 				30
+training corpus 				34
+word error rate 				7
+theano library 				4
+hearer 				3
+stanford tagger 				3
+translation quality 				10
+treetagger 				4
+surface side 				4
+su 				5
+source texts 				7
+phone confusion matrix 				4
+dependency tree 				4
+test corpus 				12
+knowledge base 				5
+bleu score 				13
+io notation 				3
+conversion 				4
+generation pipeline 				3
+user experience 				3
+apertium 				3
+latter 				8
+dialogue design 				4
+consortium 				3
+instance 				9
+animation 				3
+sentiment classification 				5
+development corpus 				4
+performance 				30
+accuracy 				10
+closer 				3
+agenda 				6
+weka toolkit 				5
+object 				5
+sequence 				5
+language technology 				5
+translator 				7
+knowledge graphs 				3
+assoc 				3
+language group 				5
+representation 				3
+pair 				9
+cancellation rule 				4
+partinc 				3
+segment 				4
+class 				7
+kb 				6
+evaluation process 				8
+exploration rate 				3
+callflow 				3
+translation process 				20
+search engine 				3
+hpsg 				3
+nlp 				9
+text summarization 				3
+lexicon 				28
+text 				104
+treebank 				9
+adjudicator 				3
+keyphrase extraction 				8
+relation 				9
+project tm 				4
+malayalam word 				4
+threshold 				11
+lstm 				3
+phrase source 				4
+consonant 				4
+fifth 				6
+language identification 				3
+implementation 				5
+guidance 				3
+target side 				20
+hrm 				3
+train set 				4
+comparison layer 				3
+columns 				4
+tcmpc task 				3
+sum rule 				3
+gold corpus 				4
+dependent 				3
+bipartite graph 				3
+db 				3
+beam 				3
+rnnlm 				3
+graph knowledge 				3
+report 				3
+infocomm research 				3
+coreference resolution 				8
+machine translation evaluation 				18
+baseline model 				3
+manager 				3
+pbt baseline 				3
+resource 				14
+progressive 				7
+classification accuracy 				3
+flagger 				5
+median 				3
+summary 				23
+reference set 				3
+crf 				4
+textrank 				7
+bleu 				5
+set 				5
+art 				13
+reference 				47
+tree 				23
+dbpedia ontology 				4
+computer 				6
+result 				5
+news 				8
+subject 				19
+target language 				47
+interview 				3
+transliteration 				9
+language model 				20
+pattern 				12
+review 				4
+baseline system 				33
+wikipedia 				5
+label 				6
+output vector 				4
+score 				12
+evaluation campaign 				3
+surface level 				3
+approach 				11
+europe 				3
+living room 				3
+parent 				3
+machine translation 				92
+screen 				12
+embracement 				3
+efficiency 				7
+job 				3
+hypothesis 				17
+tun 				3
+interface 				8
+article 				10
+seed feature 				3
+planner 				7
+proton ontology 				3
+fabula 				4
+localization industry 				3
+annotation scheme 				3
+context 				34
+utterance 				8
+etm 				5
+situation model 				5
+caminfo dataset 				4
+microblog text 				3
+czech republic 				3
+hyphen 				5
+pos 				3
+community 				4
+news domain 				10
+genre 				5
+input text 				5
+basque 				4
+table 				20
+dialogue manager 				3
+evaluation score 				5
+backend 				3
+conference 				10
+java 				4
+source 				19
+user interface 				4
+tutor 				7
+trigger 				9
+lr 				8
+translation system 				8
+dialogue 				19
+qalb corpus 				3
+language 				29
+lift 				3
+dtc approach 				3
+hashtag 				6
+word representation 				12
+mcr 				3
+mcq 				3
+case 				21
+europarl corpus 				8
+climax score 				3
+group level 				3
+tokenization 				4
+error 				8
+situation 				5
+property 				3
+rl policy 				3
+et al 				15
+vp 				3
+cluster 				10
+decision point 				3
+action space 				3
+triple 				5
+farsi 				3
+mouse 				3
+mfccs 				4
+productivity 				3
+baseline 				105
+author 				13
+feature value 				3
+punctuation 				3
+bowl 				10
+discourse 				6
+speech 				3
+algorithm 				11
+document 				52
+composition 				7
+development 				3
+satellite 				4
+literature 				28
+http 				3
+mountain 				4
+fatwa corpus 				7
+annotator 				7
+hand 				4
+director 				3
+moment 				4
+user 				77
+stack 				3
+normalization 				11
+task 				104
+center 				3
+terp tool 				3
+framework 				8
+validation set 				3
+viterbi 				5
+srilm toolkit 				9
+knowledge base completion 				5
+person 				3
+backpropagation 				3
+client 				11
+word blank 				3
+model 				79
+audio 				3
+left 				5
+comment 				9
+sentence length 				5
+background 				3
+sentence 				141
+rest 				13
+crf model 				5
+gulf war 				4
+evaluation set 				4
+human 				3
+alignment 				12
+lesk 				4
+web 				74
+winner 				3
+majority 				3
+character 				8
+improvement 				9
+lattice 				5
+location 				3
+system output 				6
+bnc 				3
+input 				53
+rgl 				4
+match 				3
+dryrun phase 				4
+evaluation period 				3
+game 				4
+grid 				4
+scheduler 				3
+world 				21
+intersection 				3
+development set 				33
+training phase 				4
+language pair 				3
+microblog 				4
+mt output 				13
+addressee 				4
+avatar 				5
+mit press 				7
+sofa 				6
+output 				17
+gold standard 				35
+page 				7
+right 				9
+grammar matrix 				4
+mip process 				3
+weka tool 				3
+twitter 				8
+ape task 				4
+competition 				9
+information retrieval 				3
+thread 				3
+dev set 				6
+paragraphs 				4
+questionnaire 				7
+text normalization 				3
+scale 				4
+rdfs 				3
+training dataset 				6
+reference translation 				16
+target segment 				5
+roadsafe project 				3
+majority class 				5
+cnl 				3
+compound splitting 				11
+text generation 				9
+source phrase 				3
+patient 				7
+context window 				4
+smt system 				11
+broker 				3
+stem 				3
+nmf 				3
+ngram 				4
+bp 				24
+umls 				7
+post 				6
+ontology 				6
+task model 				6
+comparison 				11
+brahminet corpus 				3
+reference model 				3
+srl 				4
+side 				3
+phrase level 				3
+afternoon 				8
+dialog 				5
+control group 				3
+arabic 				35
+software 				4
+cdec decoder 				4
+image 				4
+mert 				4
+dataset 				44
+proposition bank 				4
+weather 				3
+operator 				6
+correct answer 				5
+span 				5
+log 				3
+lod 				3
+area 				5
+museum 				6
+simulator 				6
+question 				13
+recognition performance 				3
+softmax function 				3
+workshop 				27
+editor 				3
+tagset 				5
+language barrier 				3
+topic lebanon 				3
+client tm 				3
+selection 				6
+head 				4
+narrator 				3
+output layer 				4
+form 				12
+thesaurus 				3
+encoder 				3
+construction 				5
+decoder 				18
+information extraction 				3
+translation workflow 				3
+language toolkit 				4
+recall score 				3
+pattern structure 				3
+maximum 				4
+joseon dynasty 				6
+ui 				3
+signer 				6
+training set 				54
+problem 				17
+word sense disambiguation 				12
+toilet 				4
+individuality 				3
+paraphrase detection 				5
+int 				7
+abstract 				4
+berkeley parser 				4
+al 				4
+basque country 				4
+confusion matrix 				6
+sparky restaurant corpus 				3
+correlation 				7
+fluency 				4
+search space 				5
+pilot study 				3
+floor 				8
+nb 				6
+field 				7
+book 				6
+text level 				3
+test 				15
+phrase translation model 				3
+rnn lm 				5
+prague dependency treebank 				4
+meaning 				4
+coverage 				4
+afnlp 				13
+kpwr corpus 				3
+phrase table 				22
+svm 				14
+mt system 				6
+twitter api 				5
+feature tag similarity 				3
+sbml 				9
+rule 				10
+parallelism 				3
+time 				10
+iq value 				4
+reward function 				3

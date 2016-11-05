@@ -1,0 +1,6 @@
+('the', 'candidate', 'and') 			26
+('the', 'teachers', 'scores') 			16
+('the', 'reference', 'and') 			15
+('the', 'final', 'score') 			12
+('the', 'hypothesis', '(') 			12
+Total = 81

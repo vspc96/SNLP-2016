@@ -1,0 +1,6 @@
+('between', 'the', 'teachers', 'scores') 			4
+('between', 'bleu', 'and') 			4
+('between', 'bleus', 'scores') 			4
+('their', 'parameters', 'and') 			2
+('their', 'similarity', 'scores') 			2
+Total = 16

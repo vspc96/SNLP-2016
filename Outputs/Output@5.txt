@@ -1,0 +1,32 @@
+bleu 					4
+own language 			1
+right 					2
+similarity 				2
+h1 						2
+human 					2
+the systems 			1
+entailment 				2
+confidence 				2
+parameters 				2
+the computer 			1
+s2 						2
+semantic dependencies 	1
+language expressions 	1
+inputs 					2
+mt systems 				1
+corresponding 			2
+judges 					2
+the teachers 			4
+bleus scores 			2
+corresponding range 	1
+the model 				1
+bleus 					4
+50 						2
+our systems 			1
+the 					2
+the automatic 			1
+
+Total 					46
+
+Precision : 10/50 = 0.2
+Recall 	  : 

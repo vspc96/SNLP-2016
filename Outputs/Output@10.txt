@@ -1,0 +1,328 @@
+correct answers 			1
+essay 			2
+shorter sentence 			1
+domain concepts 			1
+similarity of 			2
+judgments 			1
+sentence 			2
+text 			17
+the authors 			1
+same words 			2
+candidate texts 			2
+student text 			1
+humans scores 			2
+syntax 			2
+one chosen 			1
+texts into 			1
+synonyms 			6
+paper 			2
+properties 			2
+candidate sentences 			1
+human 			4
+yes-no , 			1
+mul- tiple 			1
+original algorithm 			1
+research 			2
+following procedure 			1
+given topic 			1
+machine translation 			2
+judges 			2
+single reference 			1
+texts language 			1
+bleu algorithm 			2
+candidate 			26
+aver- age 			1
+monolingual 			2
+lexical level 			1
+53 % 			1
+sixties 			4
+better 			2
+source 			2
+relevant to 			1
+advantages 			8
+systems 			6
+speech 			2
+pair s1 			1
+asags 			4
+original document 			1
+bleu-inspired algorithm 			2
+17th 			2
+our systems 			1
+evaluation 			2
+views 			2
+task definition 			1
+hypotheses , 			1
+lengths l 			1
+the teachers 			6
+candidate translation 			2
+the extract 			1
+manual evaluation 			1
+reference answers 			1
+worst 			3
+entailments 			8
+following measure 			1
+development set 			2
+confidence score 			3
+fairly new 			1
+the cluster 			1
+teacher and 			1
+open-ended questions 			2
+wsd 			2
+judge number 			1
+answer , 			1
+reference texts 			8
+50 			2
+automatic scores 			1
+standards 			2
+para- phrases 			1
+organizers performed 			1
+unstable 			2
+the dataset 			3
+modified precision 			1
+rather20.9im 			2
+following lines 			1
+automatic 			6
+each combination 			1
+specific contents 			1
+bleu 			27
+54 % 			1
+sentence . 			1
+78 % 			3
+reference 			15
+people 			2
+manual 			4
+humans 			4
+gate library 			1
+following t 			2
+the t 			1
+students answer 			1
+computer 			2
+examples 			2
+the systems 			1
+the entailment 			4
+closer 			2
+extract 			2
+subject 			2
+language-independence 			2
+knowledge-poor baseline 			1
+text-hypothesis 			2
+network 			2
+closed-class words 			2
+tackling 			4
+4-grams 			2
+teachers scores 			4
+lexical 			4
+confidence-weighted 			6
+english student 			2
+little better 			1
+previous work 			1
+language resources 			3
+new 			2
+teachers references 			1
+conditions 			2
+maximum score 			1
+reference text 			3
+higher similarity 			1
+model 			2
+results obtained 			1
+the 17th 			1
+right 			2
+overall bleu 			1
+content of 			1
+reference . 			1
+gate architecture 			1
+candidate answer 			1
+standard 			2
+2006- 2007 			1
+current challenge 			1
+entailment phenomena 			1
+results of 			1
+hypothesis 			12
+word senses 			1
+similarity 			4
+article 			2
+e-learning 			2
+the model 			1
+maximum value 			2
+confidence-weighted score 			1
+candidate text 			11
+recall 			4
+the government 			1
+questions , 			1
+consistency at 			1
+parameters 			2
+comparable document 			2
+gold standard 			1
+semantic concepts 			1
+times 			2
+56 % 			3
+the computer 			1
+teacher , 			1
+deep semantic 			1
+following way 			1
+the texts 			1
+answers , 			1
+bleus 			4
+documents in 			1
+output of 			1
+the automatic 			2
+human judgment 			1
+reference summaries 			1
+judge 			2
+own language 			1
+other programs 			1
+entailing text 			3
+distancia 			4
+simple 			2
+civilians , 			1
+hypothesis ( 			3
+h1 			2
+number 			2
+dataset 			7
+texts 			4
+good translation 			1
+the data 			1
+references 			3
+least 			2
+framework 			2
+corresponding range 			1
+entailment hypothesis 			1
+total 			2
+quality 			2
+the paper 			1
+bbn 			2
+confidence 			8
+test set 			6
+columns indicate 			1
+positive classification 			1
+positive 			2
+higher the 			2
+0.05 level 			1
+question 			4
+system 			6
+translations readability 			1
+teacher 			7
+mean opinion 			1
+chinese source 			1
+ac- curacy 			1
+interest 			2
+such resources 			1
+rule based 			2
+language expressions 			1
+final 			12
+following methods 			1
+lowest 			6
+students answers 			1
+parser 			2
+corresponding 			2
+semantic dependencies 			1
+these experiments 			1
+references , 			1
+utility judgement 			1
+syntactic processing 			1
+normalized 			2
+higher confidence 			1
+authors 			2
+quality of 			1
+translation 			2
+true 			4
+the procedure 			1
+deciding if 			1
+automatic score 			1
+speech tags 			1
+recall : 			1
+ibm 			4
+new application 			2
+same ranking 			1
+science 			2
+same meaning 			1
+maximum 			8
+the positive 			1
+summary . 			1
+cluster 			2
+information 			2
+teachers 			22
+erb 			3
+following 			9
+reference point 			1
+results achieved 			1
+procedure 			2
+regression line 			2
+source document 			1
+the sentence 			1
+these texts 			1
+reasonable size 			1
+metric 			2
+mt systems 			1
+b leu 			1
+recall in 			1
+single 			2
+52 % 			1
+the reference 			1
+output is 			1
+human-made 			6
+shooting 			2
+contents 			2
+bleu score 			1
+entailment 			13
+dawn of 			1
+the bleu 			2
+human score 			1
+syntactic 			3
+s2 			2
+government 			2
+length 			2
+same 			4
+field 			2
+methodology 			2
+other 			2
+formation of 			1
+computer science 			3
+hy- pothesis 			1
+free-text answers 			1
+same topic 			1
+the article 			1
+nature of 			1
+accuracy 			5
+development 			6
+inputs 			2
+question , 			1
+entail- ment 			2
+combination of 			1
+sentences on 			1
+students 			2
+numerical 			4
+generated text 			1
+synsets 			2
+performance of 			1
+entailment pairs 			2
+literature , 			1
+teachers , 			1
+bleus scores 			2
+expected teachers 			1
+comparable documents 			2
+scores 			2
+predicates 			2
+two points 			1
+data 			4
+capitalized letters 			1
+entailment pair 			1
+compression level 			1
+short 			2
+array of 			2
+the field 			1
+the information 			1
+purpose of 			1
+roughly 			2
+gold standards 			1
+one sentence 			1
+confidence weighted 			1
+bleu is 			1
+manual scores 			2
+textual entailment 			1
+correlation 			2
+quantitative 			2
+the 			2
+documents 			2
+Total = 773
+Precision : 41/773 = 0.05

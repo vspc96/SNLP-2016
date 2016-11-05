@@ -1,0 +1,7 @@
+bleu 			27
+candidate 			26
+teachers 			22
+text 			17
+reference 			15
+Total = 107
+Precision : 27/107 = 0.25

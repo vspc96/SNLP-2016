@@ -1,0 +1,28 @@
+('their', 'parameters', 'and') 			2
+('between', 'language', 'expressions', 'and') 			1
+('their', 'similarity', 'scores') 			2
+('between', 's2', 'and') 			2
+('between', 'bleus', 'scores', 'and') 			2
+('their', 'corresponding', 'scores') 			2
+('between', 'the', 'teachers', 'scores') 			4
+('their', 'inputs', 'and') 			2
+('between', '50', 'and') 			2
+('between', 'our', 'systems', 'scores') 			1
+('between', 'judges', 'and') 			2
+('between', 'h1', 'and') 			2
+('between', 'the', 'systems', 'scores') 			1
+('between', 'the', 'computer', 'and') 			1
+('their', 'corresponding', 'range', '(') 			1
+('between', 'entailment', 'and') 			2
+('between', 'bleu', 'and') 			4
+('their', 'confidence', '(') 			2
+('their', 'semantic', 'dependencies', '(') 			1
+('between', 'the', 'scores') 			2
+('between', 'mt', 'systems', 'and') 			1
+('between', 'the', 'automatic', 'scores') 			1
+('their', 'own', 'language', '(') 			1
+('between', 'bleus', 'scores') 			4
+('between', 'human', 'and') 			2
+('between', 'the', 'model', 'and') 			1
+('between', 'right', 'and') 			2
+Total = 50

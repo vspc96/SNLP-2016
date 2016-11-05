@@ -1,0 +1,380 @@
+('the', 'answers', ',', 'and') 			1
+('of', 'the', 'field', 'and') 			1
+('the', 'entailment', '(') 			2
+('the', 'extract', '(') 			2
+('a', 'new', 'application', ':') 			2
+('of', 'the', 't', 'and') 			1
+('a', 'parser', 'and') 			2
+('of', 'mul-', 'tiple', '(') 			1
+('of', 'e-learning', 'and') 			2
+('of', 'standards', 'and') 			2
+('between', 'the', 'computer', 'and') 			1
+('a', 'framework', 'and') 			2
+('the', 'predicates', 'and') 			2
+('of', 'the', 'entailment', 'and') 			3
+('a', 'b', 'leu', '(') 			1
+('of', 'the', 'bleu', 'score') 			1
+('their', 'semantic', 'dependencies', '(') 			1
+('of', 'one', 'sentence', '(') 			1
+('of', 'closed-class', 'words', '(') 			1
+('the', 'information', 'and') 			2
+('of', 'candidate', 'texts', '(') 			1
+('the', 'array', 'of', 'scores') 			2
+('the', 'bleu', 'scores') 			6
+('the', 'documents', 'in', 'a') 			1
+('a', 'candidate', 'text', '(') 			3
+('the', 'erb', 'and') 			3
+('of', 'the', 'entailment', '(') 			1
+('the', 'purpose', 'of', 'a') 			1
+('the', 'source', 'document', 'and') 			1
+('the', 'systems', 'scores') 			6
+('a', 'rule', 'based', 'and') 			2
+('the', 'bleu', 'score', 'and') 			1
+('of', 'closed-class', 'words', 'and') 			1
+('the', 'teacher', '(') 			2
+('the', 'automatic', 'score') 			2
+('of', 'documents', '(') 			2
+('the', 'field', 'and') 			2
+('of', 'entailments', '(') 			8
+('of', '52', '%', 'and') 			1
+('a', 'syntactic', 'and') 			3
+('the', 'methodology', 'and') 			2
+('the', 'humans', 'scores', 'and') 			2
+('of', 'asags', 'scores') 			2
+('their', 'own', 'language', '(') 			1
+('of', 'deciding', 'if', 'a') 			1
+('the', 'sentence', '(') 			2
+('the', 'confidence', 'score', 'and') 			2
+('the', 'following', 'measure', ':') 			1
+('the', 'ibm', 'and') 			2
+('the', 'reference', '.', '(') 			1
+('the', 'unstable', 'and') 			2
+('of', 'the', '17th', 'a') 			1
+('the', 'computer', 'science', 'and') 			1
+('of', 'length', 'and') 			2
+('the', 'closer', 'a') 			2
+('the', 'expected', 'teachers', 'score') 			1
+('the', 'formation', 'of', 'a') 			1
+('a', 'question', 'and') 			2
+('of', 'the', 'dataset', '(') 			1
+('of', 'para-', 'phrases', '(') 			1
+('the', '17th', 'a') 			2
+('their', 'corresponding', 'range', '(') 			1
+('of', '56', '%', 'and') 			3
+('the', 'authors', 'and') 			2
+('the', 'quality', 'of', 'a') 			1
+('of', 'question', ':') 			2
+('the', 'recall', ':', '(') 			1
+('between', 'the', 'scores') 			2
+('the', 'quality', 'and') 			2
+('of', 'these', 'experiments', 'and') 			1
+('the', 'teacher', 'and', 'a') 			1
+('the', 'human', 'judgment', 'scores') 			1
+('the', 'utility', 'judgement', 'score') 			1
+('the', 'output', 'of', 'a') 			1
+('the', 'people', 'and') 			2
+('of', 'word', 'senses', '(') 			1
+('the', 'hypotheses', ',', 'and') 			1
+('a', 'bleu', 'score') 			4
+('the', 'following', 'way', ':') 			1
+('their', 'inputs', 'and') 			2
+('a', 'development', 'and') 			2
+('a', 'confidence', 'score') 			2
+('the', 'subject', '(') 			2
+('the', 'summary', '.', 'and') 			1
+('the', 'following', 'procedure', ':') 			1
+('the', 'higher', 'similarity', 'scores') 			1
+('the', 'conditions', 'and') 			2
+('the', 'scores', 'and') 			2
+('of', 'these', 'texts', '(') 			1
+('a', 'given', 'topic', 'and') 			1
+('the', 'cluster', '(') 			2
+('the', 'model', 'and') 			2
+('the', 'recall', 'and') 			2
+('of', 'textual', 'entailment', '(') 			1
+('between', 'the', 'bleu', 'score') 			1
+('a', 'knowledge-poor', 'baseline', '(') 			1
+('the', 'gold', 'standards', 'scores') 			1
+('of', 'students', 'and') 			2
+('between', 'right', 'and') 			2
+('all', 'synsets', ':') 			2
+('the', 'references', ',', 'and') 			1
+('the', 'following', 't', 'and') 			2
+('of', 'examples', 'and') 			2
+('the', 'candidate', 'texts', '(') 			1
+('their', 'corresponding', 'scores') 			2
+('the', 'following', 'lines', ':') 			1
+('the', 'language', 'resources', 'and') 			2
+('of', 'roughly', 'a') 			2
+('of', 'each', 'combination', 'and') 			1
+('all', 'reference', 'summaries', '(') 			1
+('the', 'references', 'and') 			3
+('the', 'bleu', 'algorithm', '(') 			2
+('between', 'judges', 'and') 			2
+('the', 'human', 'score', 'and') 			1
+('the', 'confidence-weighted', 'score') 			2
+('the', 'hypothesis', '(', 'and') 			3
+('of', 'ibm', 'and') 			2
+('the', 'lexical', 'and') 			4
+('the', 'teacher', 'and') 			5
+('the', 'manual', 'scores', '(') 			2
+('of', 'times', 'a') 			2
+('of', 'translation', ':') 			2
+('the', 'entailment', 'and') 			9
+('all', 'relevant', 'to', 'a') 			1
+('of', 'the', 'extract', '(') 			1
+('the', 'recall', ':') 			2
+('of', 'ac-', 'curacy', 'and') 			1
+('a', 'maximum', 'score') 			2
+('the', 'automatic', 'scores') 			4
+('the', 'other', 'and') 			2
+('the', 'yes-no', ',', 'and') 			1
+('of', 'the', 'reference', 'and') 			1
+('between', 's2', 'and') 			2
+('of', 'speech', 'tags', 'and') 			1
+('the', 'development', 'and') 			4
+('the', 'number', 'and') 			2
+('the', 'system', '(') 			2
+('of', 'capitalized', 'letters', 'and') 			1
+('a', 'confidence-weighted', 'score') 			4
+('of', 'open-ended', 'questions', '(') 			2
+('the', 'combination', 'of', 'a') 			1
+('their', 'confidence', '(') 			2
+('the', 'texts', ':') 			2
+('of', 'syntax', 'and') 			2
+('of', 'advantages', 'and') 			4
+('a', 'previous', 'work', '(') 			1
+('a', 'single', 'reference', 'and') 			1
+('the', 'manual', 'scores') 			4
+('of', 'entailment', 'pairs', '(') 			1
+('the', 'total', '(') 			2
+('the', 'task', 'definition', 'and') 			1
+('the', 'gate', 'architecture', '(') 			1
+('the', 'hy-', 'pothesis', '(') 			1
+('between', 'bleus', 'scores', 'and') 			2
+('the', 'entailment', 'hypothesis', '(') 			1
+('the', 'lexical', 'level', 'and') 			1
+('a', 'mean', 'opinion', 'score') 			1
+('between', '50', 'and') 			2
+('between', 'our', 'systems', 'scores') 			1
+('between', 'h1', 'and') 			2
+('a', 'student', 'text', 'and') 			1
+('a', 'reference', 'point', 'and') 			1
+('the', 'metric', ':') 			2
+('the', 'positive', '(') 			2
+('the', 'candidate', 'and') 			26
+('a', 'text', 'and') 			3
+('of', 'tackling', 'a') 			4
+('of', 'the', 'positive', '(') 			1
+('the', 'data', ':') 			4
+('the', 'confidence', 'score') 			4
+('of', 'bbn', 'and') 			2
+('the', 'organizers', 'performed', 'a') 			1
+('between', 'the', 'teachers', 'scores') 			4
+('the', 'same', 'meaning', '(') 			1
+('the', 'maximum', 'score') 			2
+('the', 'dawn', 'of', 'a') 			1
+('the', 'same', 'topic', ':') 			1
+('the', 'texts', 'language', 'and') 			1
+('a', 'little', 'better', '(') 			1
+('the', 'candidate', 'text', 'and') 			5
+('of', 'reasonable', 'size', '(') 			1
+('a', 'maximum', '(') 			2
+('a', 'shorter', 'sentence', '(') 			1
+('of', 'single', 'and') 			2
+('of', 'the', 'sentence', '(') 			1
+('the', 'language-independence', 'and') 			2
+('of', 'lengths', 'l', 'and') 			1
+('the', 'evaluation', 'and') 			2
+('the', 'numerical', 'score') 			2
+('the', 'short', 'and') 			2
+('the', 'views', 'and') 			2
+('the', 'teachers', 'scores') 			16
+('of', 'wsd', '(') 			2
+('between', 'mt', 'systems', 'and') 			1
+('between', 'the', 'automatic', 'scores') 			1
+('the', 'worst', 'and') 			3
+('the', 'reference', 'and') 			15
+('the', 'generated', 'text', 'and') 			1
+('the', '0.05', 'level', 'and') 			1
+('the', 'teachers', 'references', 'and') 			1
+('the', 'candidate', 'translation', 'and') 			1
+('the', 'dataset', 'and') 			5
+('of', 'question', ',', 'and') 			1
+('the', 'recall', 'in', 'a') 			1
+('the', 'human', 'score') 			2
+('the', 'regression', 'line', '(') 			1
+('the', 'accuracy', 'and') 			3
+('a', 'maximum', 'score', '(') 			1
+('the', 'monolingual', 'and') 			2
+('of', 'other', 'programs', 'and') 			1
+('the', 'bleu', 'score') 			6
+('of', 'the', 'dataset', 'and') 			2
+('the', 'comparable', 'document', '(') 			2
+('the', 'original', 'document', '(') 			1
+('of', 'the', 'cluster', '(') 			1
+('of', '78', '%', 'and') 			3
+('the', 'properties', 'and') 			2
+('a', 'confidence-weighted', 'score', '(') 			1
+('the', 'students', 'answer', 'and') 			1
+('the', 'candidate', 'text', '(') 			3
+('the', 'output', 'is', 'a') 			1
+('the', 'pair', 's1', 'and') 			1
+('of', 'bleu', 'and') 			2
+('a', 'candidate', 'translation', ':') 			1
+('of', 'the', 'authors', 'and') 			1
+('of', 'text', 'and') 			2
+('of', 'free-text', 'answers', 'a') 			1
+('the', 'texts', 'into', 'a') 			1
+('of', 'texts', '(') 			2
+('a', 'simple', 'and') 			2
+('the', 'aver-', 'age', 'scores') 			1
+('of', 'sentences', 'on', 'a') 			1
+('of', 'the', 'teachers', 'score') 			1
+('the', 'translations', 'readability', 'and') 			1
+('of', 'speech', 'and') 			2
+('of', 'civilians', ',', 'and') 			1
+('the', 'test', 'set', '(') 			6
+('a', 'system', 'and') 			2
+('of', 'machine', 'translation', '(') 			2
+('of', 'syntactic', 'processing', 'and') 			1
+('of', 'bleu', 'score') 			2
+('of', 'literature', ',', 'and') 			1
+('the', 'judge', '(') 			2
+('the', 'one', 'chosen', 'and') 			1
+('of', 'the', 'article', '(') 			1
+('a', 'judge', 'number', '(') 			1
+('of', 'essay', 'and') 			2
+('the', 'entailment', 'pairs', 'and') 			1
+('the', 'similarity', 'scores') 			2
+('of', 'the', 'texts', ':') 			1
+('of', 'manual', 'evaluation', 'and') 			1
+('the', 'paper', 'and') 			2
+('the', 'system', 'and') 			2
+('the', 'specific', 'contents', 'and') 			1
+('the', 'answer', ',', 'and') 			1
+('the', 'content', 'of', 'a') 			1
+('of', 'synonyms', 'and') 			6
+('of', 'consistency', 'at', 'a') 			1
+('the', 'comparable', 'documents', '(') 			2
+('the', 'performance', 'of', 'a') 			1
+('of', 'computer', 'science', 'and') 			2
+('between', 'bleu', 'and') 			4
+('the', 'human-made', 'scores') 			6
+('the', 'development', 'set', 'and') 			1
+('the', 'reference', 'answers', '(') 			1
+('between', 'the', 'automatic', 'score') 			1
+('a', 'deep', 'semantic', 'and') 			1
+('of', '54', '%', '(') 			1
+('the', 'bleu', '(') 			3
+('a', 'confidence', 'score', '(') 			1
+('the', 'same', 'score') 			4
+('the', 'entailing', 'text', '(') 			3
+('the', 'results', 'obtained', 'and') 			1
+('of', 'bleu', 'is', 'a') 			1
+('of', 'true', 'and') 			4
+('of', 'the', 'procedure', 'and') 			1
+('the', 'correlation', 'scores') 			2
+('the', 'judgments', '(') 			1
+('the', 'same', 'ranking', ':') 			1
+('of', 'the', 'government', 'and') 			1
+('of', 'such', 'resources', 'and') 			1
+('the', 'results', 'achieved', ':') 			1
+('the', 'following', 'methods', ':') 			1
+('the', 'teachers', 'score') 			6
+('of', 'positive', 'classification', 'and') 			1
+('the', 'same', 'words', '(') 			2
+('the', 'candidate', 'answer', 'and') 			1
+('the', 'gate', 'library', '(') 			1
+('between', 'human', 'and') 			2
+('the', 'source', '(') 			2
+('the', 'confidence', 'weighted', 'score') 			1
+('the', 'teachers', ',', 'and') 			1
+('the', 'entailment', 'pair', 'and') 			1
+('of', 'correct', 'answers', '(') 			1
+('a', 'fairly', 'new', 'and') 			1
+('a', 'new', 'and') 			2
+('the', 'nature', 'of', 'a') 			1
+('the', 'domain', 'concepts', 'and') 			1
+('the', 'maximum', 'and') 			2
+('the', 'automatic', 'score', 'and') 			1
+('of', 'the', 'information', 'and') 			1
+('the', 'humans', 'scores') 			4
+('the', 'final', 'score') 			12
+('the', 'development', 'set', '(') 			1
+('between', 'bleus', 'scores') 			4
+('the', 'columns', 'indicate', ':') 			1
+('of', '4-grams', 'and') 			2
+('the', 'advantages', 'and') 			4
+('between', 'the', 'model', 'and') 			1
+('the', 'normalized', 'scores') 			2
+('the', 'better', 'score') 			2
+('the', 'teacher', ',', 'and') 			1
+('of', 'reference', 'texts', '(') 			4
+('a', 'higher', 'confidence', 'score') 			1
+('the', 'gold', 'standard', 'and') 			1
+('the', 'entail-', 'ment', '(') 			2
+('of', 'questions', ',', 'and') 			1
+('a', 'maximum', 'value', '(') 			2
+('the', 'lowest', '(') 			6
+('the', 'higher', 'the', 'score') 			2
+('the', 'sixties', '(') 			4
+('the', 'original', 'algorithm', ':') 			1
+('the', 'research', 'and') 			2
+('of', 'chinese', 'source', 'and') 			1
+('the', 'dataset', '(') 			2
+('the', 'reference', 'text', '(') 			3
+('the', 'results', 'of', 'a') 			1
+('the', 'language', 'resources', '(') 			1
+('the', 'regression', 'line', 'and') 			1
+('of', 'semantic', 'concepts', 'and') 			1
+('of', 'entailment', 'phenomena', 'and') 			1
+('a', 'distancia', '(') 			4
+('of', '53', '%', 'and') 			1
+('the', '2006-', '2007', 'and') 			1
+('between', 'language', 'expressions', 'and') 			1
+('the', 'hypothesis', '(') 			12
+('the', 'least', 'score') 			2
+('the', 'rather20.9im', '(') 			2
+('their', 'similarity', 'scores') 			2
+('the', 'english', 'student', 'and') 			2
+('the', 'students', 'answers', 'and') 			1
+('a', 'bleu-inspired', 'algorithm', 'and') 			2
+('a', 'text', '(') 			4
+('the', 'text', 'and') 			4
+('between', 'the', 'systems', 'scores') 			1
+('of', 'the', 'data', ':') 			1
+('the', 'accuracy', '(') 			2
+('the', 'automatic', 'scores', 'and') 			1
+('the', 'article', '(') 			2
+('a', 'modified', 'precision', 'score') 			1
+('the', 'overall', 'bleu', 'score') 			1
+('a', 'good', 'translation', 'and') 			1
+('of', 'the', 'teachers', 'scores') 			1
+('of', 'network', 'and') 			2
+('the', 'two', 'points', '(') 			1
+('the', 'contents', 'and') 			2
+('their', 'parameters', 'and') 			2
+('the', 'following', ':') 			9
+('the', 'computer', 'and') 			2
+('the', 'text', '(') 			4
+('the', 'procedure', 'and') 			2
+('the', 'reference', 'texts', '(') 			4
+('of', 'text-hypothesis', '(') 			2
+('between', 'entailment', 'and') 			2
+('the', 'sentence', '.', 'a') 			1
+('a', 'numerical', 'score') 			2
+('of', 'the', 'paper', 'and') 			1
+('of', 'interest', '(') 			2
+('the', 'government', 'and') 			2
+('the', 'shooting', 'and') 			2
+('the', 'teachers', 'scores', 'and') 			4
+('the', 'candidate', 'sentences', 'and') 			1
+('of', 'asags', 'and') 			2
+('a', 'standard', '(') 			2
+('the', 'current', 'challenge', 'and') 			1
+('of', 'science', 'and') 			2
+('the', 'similarity', 'of', 'a') 			2
+('the', 'compression', 'level', '(') 			1
+('a', 'quantitative', 'score') 			2
+Total = 773

@@ -1,0 +1,4 @@
+('events using rouge shows that ', 1)
+('improvement in rouge scores compared ', 1)
+('the final rouge scores for ', 1)
+('rouge measures the ', 1)

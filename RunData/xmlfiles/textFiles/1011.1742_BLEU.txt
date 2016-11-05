@@ -1,0 +1,3 @@
+('of the bleu method for ', 1)
+('of the bleu algorithm applied ', 1)
+('version of bleu algorithm is ', 1)

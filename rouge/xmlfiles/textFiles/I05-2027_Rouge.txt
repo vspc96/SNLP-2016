@@ -1,0 +1,5 @@
+('using the rouge evaluation suite ', 1)
+('that certain rouge metrics correlate ', 1)
+('higher the rouge value the ', 1)
+('before the rouge metrics were ', 1)
+('since high rouge scores indicate ', 1)
