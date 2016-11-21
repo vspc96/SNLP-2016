@@ -1,0 +1,67 @@
+The values of precison and recall as per the cutoff of training patterns and training outputs
+Cutoff 	Top 	Precison 	Recall 	fScore
+Total Patterns =613, freq = 709
+Done with Training
+Cutoff: 5
+All Before count = 4
+All After count = 4
+Starting to get patterns
+Start the evaluation.
+5	2	0	2	0	673	0.000000	0.000000	0.000000
+5	25	0	2	0	673	0.000000	0.000000	0.000000
+5	20	0	2	0	673	0.000000	0.000000	0.000000
+5	15	0	2	0	673	0.000000	0.000000	0.000000
+5	10	0	2	0	673	0.000000	0.000000	0.000000
+5	5	0	2	0	673	0.000000	0.000000	0.000000
+Total Patterns =613, freq = 709
+Done with Training
+Cutoff: 10
+All Before count = 9
+All After count = 9
+Starting to get patterns
+Start the evaluation.
+10	27	1	37	1	673	0.027027	0.001486	0.002817
+10	25	1	35	1	673	0.028571	0.001486	0.002825
+10	20	1	30	1	673	0.033333	0.001486	0.002845
+10	15	1	25	1	673	0.040000	0.001486	0.002865
+10	10	1	20	1	673	0.050000	0.001486	0.002886
+10	5	0	14	0	673	0.000000	0.000000	0.000000
+Total Patterns =613, freq = 709
+Done with Training
+Cutoff: 15
+All Before count = 14
+All After count = 12
+Starting to get patterns
+Start the evaluation.
+15	28	1	39	1	673	0.025641	0.001486	0.002809
+15	25	1	36	1	673	0.027778	0.001486	0.002821
+15	20	1	31	1	673	0.032258	0.001486	0.002841
+15	15	1	26	1	673	0.038462	0.001486	0.002861
+15	10	1	21	1	673	0.047619	0.001486	0.002882
+15	5	0	14	0	673	0.000000	0.000000	0.000000
+Total Patterns =613, freq = 709
+Done with Training
+Cutoff: 20
+All Before count = 18
+All After count = 17
+Starting to get patterns
+Start the evaluation.
+20	29	1	40	1	673	0.025000	0.001486	0.002805
+20	25	1	36	1	673	0.027778	0.001486	0.002821
+20	20	1	31	1	673	0.032258	0.001486	0.002841
+20	15	1	26	1	673	0.038462	0.001486	0.002861
+20	10	1	21	1	673	0.047619	0.001486	0.002882
+20	5	0	14	0	673	0.000000	0.000000	0.000000
+Total Patterns =613, freq = 709
+Done with Training
+Cutoff: 25
+All Before count = 23
+All After count = 22
+Starting to get patterns
+Start the evaluation.
+25	30	1	41	1	673	0.024390	0.001486	0.002801
+25	25	1	36	1	673	0.027778	0.001486	0.002821
+25	20	1	31	1	673	0.032258	0.001486	0.002841
+25	15	1	26	1	673	0.038462	0.001486	0.002861
+25	10	1	21	1	673	0.047619	0.001486	0.002882
+25	5	0	14	0	673	0.000000	0.000000	0.000000
